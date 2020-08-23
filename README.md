@@ -1,3 +1,7 @@
+### Caching the Inverse of a Matrix - Assignment 2
+### Elida Silva Retamal - Programming Assignment 2: Lexical Scoping - Week 3
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
